@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anonymous_apps>
+    <app>
+        <name>Tor Browser</name>
+        <category>Браузер</category>
+        <description>Анонимный браузер на базе сети Tor</description>
+    </app>
+    <app>
+        <name>Orbot</name>
+        <category>VPN/Tor</category>
+        <description>Прокси-сервер Tor для Android</description>
+    </app>
+    <app>
+        <name>ProtonVPN</name>
+        <category>VPN</category>
+        <description>Безопасный VPN с высокой приватностью</description>
+    </app>
+    <app>
+        <name>Signal</name>
+        <category>Мессенджер</category>
+        <description>Шифрованный мессенджер с открытым исходным кодом</description>
+    </app>
+    <app>
+        <name>Briar</name>
+        <category>Мессенджер</category>
+        <description>Децентрализованный мессенджер без серверов</description>
+    </app>
+    <app>
+        <name>F-Droid</name>
+        <category>Магазин приложений</category>
+        <description>Каталог FOSS-приложений для Android</description>
+    </app>
+    <app>
+        <name>NewPipe</name>
+        <category>Видео</category>
+        <description>Альтернативный YouTube-клиент с приватностью</description>
+    </app>
+    <app>
+        <name>DuckDuckGo</name>
+        <category>Поисковик</category>
+        <description>Поисковая система, не отслеживающая пользователей</description>
+    </app>
+    <app>
+        <name>Firefox Focus</name>
+        <category>Браузер</category>
+        <description>Приватный браузер с автоматическим удалением данных</description>
+    </app>
+    <app>
+        <name>KeePassDX</name>
+        <category>Пароли</category>
+        <description>Менеджер паролей с локальным хранением</description>
+    </app>
+    <app>
+        <name>Element</name>
+        <category>Мессенджер</category>
+        <description>Децентрализованный мессенджер на Matrix</description>
+    </app>
+    <app>
+        <name>Jitsi Meet</name>
+        <category>Видеозвонки</category>
+        <description>Безопасные видеоконференции с шифрованием</description>
+    </app>
+    <app>
+        <name>OnionShare</name>
+        <category>Файлообмен</category>
+        <description>Безопасный обмен файлами через Tor</description>
+    </app>
+    <app>
+        <name>Session</name>
+        <category>Мессенджер</category>
+        <description>Анонимный мессенджер без идентификаторов</description>
+    </app>
+    <app>
+        <name>Simple Mobile Tools</name>
+        <category>Утилиты</category>
+        <description>Набор приватных приложений без трекеров</description>
+    </app>
+    <app>
+        <name>OsmAnd~</name>
+        <category>Карты</category>
+        <description>Оффлайн-карты с уважением к приватности</description>
+    </app>
+    <app>
+        <name>LibreTube</name>
+        <category>Видео</category>
+        <description>Приватная альтернатива YouTube</description>
+    </app>
+    <app>
+        <name>NetGuard</name>
+        <category>Файрволл</category>
+        <description>Файрволл для контроля доступа в интернет</description>
+    </app>
+    <app>
+        <name>Shelter</name>
+        <category>Изоляция</category>
+        <description>Изоляция приложений в рабочем профиле</description>
+    </app>
+    <app>
+        <name>RethinkDNS</name>
+        <category>DNS/Firewall</category>
+        <description>DNS-фильтрация и файрволл</description>
+    </app>
+    <app>
+        <name>Blokada</name>
+        <category>Рекламный блокер</category>
+        <description>Блокировщик рекламы и трекеров</description>
+    </app>
+    <app>
+        <name>Invizible Pro</name>
+        <category>VPN/Tor</category>
+        <description>Комплексное решение для анонимности</description>
+    </app>
+    <app>
+        <name>Cryptomator</name>
+        <category>Шифрование</category>
+        <description>Шифрование файлов в облаке</description>
+    </app>
+    <app>
+        <name>EteSync</name>
+        <category>Синхронизация</category>
+        <description>Шифрованная синхронизация контактов и календарей</description>
+    </app>
+    <app>
+        <name>QKSMS</name>
+        <category>СМС</category>
+        <description>Приватный клиент сообщений</description>
+    </app>
+    <app>
+        <name>AntennaPod</name>
+        <category>Подкасты</category>
+        <description>Приватный подкаст-клиент</description>
+    </app>
+    <app>
+        <name>Infinity</name>
+        <category>Соцсети</category>
+        <description>Приватный клиент Reddit</description>
+    </app>
+    <app>
+        <name>Frost</name>
+        <category>Соцсети</category>
+        <description>Приватная оболочка для Facebook</description>
+    </app>
+    <app>
+        <name>Slide</name>
+        <category>Соцсети</category>
+        <description>Альтернативный клиент Reddit</description>
+    </app>
+    <app>
+        <name>PixelKnot</name>
+        <category>Стеганография</category>
+        <description>Скрытие сообщений в изображениях</description>
+    </app>
+    <app>
+        <name>ObscuraCam</name>
+        <category>Фото</category>
+        <description>Камера с возможностью цензурирования лиц</description>
+    </app>
+    <app>
+        <name>Secure Camera</name>
+        <category>Фото</category>
+        <description>Безопасное приложение камеры от GrapheneOS</description>
+    </app>
+    <app>
+        <name>OpenKeychain</name>
+        <category>Шифрование</category>
+        <description>Шифрование PGP для Android</description>
+    </app>
+    <app>
+        <name>Silence</name>
+        <category>СМС</category>
+        <description>Шифрование SMS сообщений</description>
+    </app>
+    <app>
+        <name>WireGuard</name>
+        <category>VPN</category>
+        <description>Быстрый и безопасный VPN протокол</description>
+    </app>
+    <app>
+        <name>OpenVPN</name>
+        <category>VPN</category>
+        <description>Клиент для своего VPN на протоколе OpenVPN</description>
+    </app>
+    <app>
+        <name>CalaxyVPN</name>
+        <category>VPN</category>
+        <description>С CalyxVPN вы можете безопасно зашифровать весь свой сетевой трафик и направить его через Calyx Institute.</description>
+    </app>
+    <app>
+        <name>Mullvad VPN</name>
+        <category>VPN</category>
+        <description>VPN сервис с акцентом на приватность</description>
+    </app>
+    <app>
+        <name>IVPN</name>
+        <category>VPN</category>
+        <description>Еще один приватный VPN сервис</description>
+    </app>
+    <app>
+        <name>Nextcloud</name>
+        <category>Облако</category>
+        <description>Приватная альтернатива облачным сервисам</description>
+    </app>
+</anonymous_apps>
